@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/vatnar/.config/nvim'
+let g:netrw_dirhist_3='/home/vatnar/nvim/lua/vatnar'
+let g:netrw_dirhist_2='/home/vatnar/nvim/lua'
+let g:netrw_dirhist_1='/home/vatnar/nvim'
